@@ -1,0 +1,20 @@
+{
+    "name": "FFC-ElderScrollsTimeline",
+    "description": "A simple timeline for Focused Fire Chat",
+    "keywords": [],
+    "homepage": "https://github.com/unisys12/elderscrollstimeline/tree/master",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phillip Jackson",
+            "email": "unisys12@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17"
+    }
+}
