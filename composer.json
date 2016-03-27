@@ -1,14 +1,14 @@
 {
-    "name": "slim/slim-skeleton",
-    "description": "A Slim Framework skeleton application for rapid development",
-    "keywords": ["microframework","rest","router", "psr7"],
-    "homepage": "http://github.com/slimphp/Slim-Skeleton",
+    "name": "FFC-ElderScrollsTimeline",
+    "description": "A simple timeline for Focused Fire Chat",
+    "keywords": [],
+    "homepage": "https://github.com/unisys12/elderscrollstimeline/tree/master",
     "license": "MIT",
     "authors": [
         {
-            "name": "Josh Lockhart",
-            "email": "info@joshlockhart.com",
-            "homepage": "http://www.joshlockhart.com/"
+            "name": "Phillip Jackson",
+            "email": "unisys12@gmail.com",
+            "homepage": ""
         }
     ],
     "require": {
